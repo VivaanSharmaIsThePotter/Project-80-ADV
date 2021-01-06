@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+.input_text {
+    width: 49%;
+    float: left;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.collate_buttons {
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input {
+    margin: 10px;
+}
+
+.float_container {
+    border: 1px solid #fff;
+    padding: 20px;
+}
+
+.paragraph_product {
+    padding: 20px;
+}
